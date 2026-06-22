@@ -1,4 +1,4 @@
-# 📄 Resume Rank AI - Resume Screening & Ranking System
+# 📄 AI Resume Rank - Resume Screening & Ranking System
 
 A simple AI-powered Resume Screening and Ranking System built using **Python + Streamlit**.
 
